@@ -4,5 +4,7 @@ Some plots of SMU's published COVID-19 case data. Last updated 08/30/2020. Solid
 
 ![](daily_new_cases_starting_august.png)
 
+![](cumulative_on_off_cases_starting_august.png)
+
 ![](cumulative_cases_all_time.png)
 
