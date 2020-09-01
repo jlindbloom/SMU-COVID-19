@@ -1,4 +1,4 @@
-Some plots of SMU's published COVID-19 case data. Last updated 08/30/2020. Solid black line indicates the first day of classes (August 24th), solid red line indicates the day these plots were last updated.
+Some plots of SMU's published COVID-19 case data. Last updated 08/31/2020. Solid black line indicates the first day of classes (August 24th), solid red line indicates the day these plots were last updated.
 
 ![](cumulative_cases_starting_august.png)
 
