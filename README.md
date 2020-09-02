@@ -8,3 +8,6 @@ Some plots of SMU's published COVID-19 case data. Last updated 08/31/2020. Solid
 
 ![](cumulative_cases_all_time.png)
 
+Below is an excerpt from SMU's [Fall 2020 Operations Plan](https://smu.app.box.com/s/rrp4y7vgndry6kb8xhrmtxdcbdftjs85).
+
+![](operations_plan_excerpt.png)
