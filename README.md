@@ -1,4 +1,4 @@
-# Last Updated: 9/1/2020
+# Last Updated: 9/1/2020. Updated daily.
 
 ### Total Active Cases: 105
 
