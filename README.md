@@ -28,6 +28,6 @@ As of 9/1/2020, there are <strong>58</strong> active cases amongst students livi
 
 Some other students are also tracking cases:
 <ul>
-<li> [SMU COVID-19 Case Tracker (jared-burleson)](https://github.com/jared-burleson/SMU_COVID_Case_Tracker) </li>
+<li> <a href="https://github.com/jared-burleson/SMU_COVID_Case_Tracker">SMU COVID-19 Case Tracker (jared-burleson)</a>
 <li> [SMU_Covid-19_Tracking (NoahPearson)](https://github.com/NoahPearson/SMU_Covid-19_Tracking) </li>
 </ul>
