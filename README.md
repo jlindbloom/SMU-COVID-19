@@ -2,7 +2,7 @@
 
 ### Total Active Cases: 105
 
-Here are some plots of SMU's published COVID-19 case data. Solid black line indicates the first day of classes (August 24th), solid red line indicates the day these plots were last updated.
+Here are some plots of [SMU's published COVID-19 case data](https://blog.smu.edu/coronavirus-covid-19/cases/). Solid black line indicates the first day of classes (August 24th), solid red line indicates the day these plots were last updated.
 
 ![](cumulative_cases_starting_august.png)
 
