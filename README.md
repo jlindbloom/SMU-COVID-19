@@ -16,7 +16,7 @@ Below is an excerpt from SMU's [Fall 2020 Operations Plan](https://smu.app.box.c
 
 ![](operations_plan_excerpt.png)
 
-This document was last updated 8/21/2020. Assuming these figures still remain accurate, there are a total of **127** isolation beds.
+This document was last updated on 8/21/2020. Assuming these figures still remain accurate, there are a total of <strong>**127**</strong> isolation beds.
 <ul>
 <li> **63** beds occupied means students with permanent addresses within 120 miles of campus may be sent home. </li>
 <li> **88** beds occupied means students with permanent addresses within 300 miles of campus may be sent home. </li>
