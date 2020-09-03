@@ -16,7 +16,7 @@ Below is an excerpt from SMU's [Fall 2020 Operations Plan](https://smu.app.box.c
 
 ![](operations_plan_excerpt.png)
 
-This document was last updated on 8/21/2020. Assuming these figures still remain accurate, there are a total of <strong>127</strong> isolation beds.
+<strike> This document was last updated on 8/21/2020. Assuming these figures still remain accurate, there are a total of <strong>127</strong> isolation beds.
 <ul>
 <li> <strong>63</strong> beds occupied means students with permanent addresses within 120 miles of campus may be sent home. </li>
 <li> <strong>88</strong> beds occupied means students with permanent addresses within 300 miles of campus may be sent home. </li>
@@ -24,7 +24,7 @@ This document was last updated on 8/21/2020. Assuming these figures still remain
 <li> <strong>127</strong> beds occupied means in-person campus operations halted and remaining students asked to return home. </li>
 </ul>
 
-<strike> <strong>9/1/2020</strong>: there are <strong>58</strong> active cases amongst students living in on-campus facilities. All off-campus students are expected to isolate off campus, so assuming all on-campus students are also isolating on-campus there are 58 isolation beds currently being utilized. This means that SMU is roughly <strong>5</strong> on-campus cases away from hitting 63 beds occupied and possibly sending home students with homes within 120 miles of campus. Of course, this assumes that SMU is still planning to stick to the plan outlined in the most-current revision of the Fall 2020 Operations Plan document - but we will see. </strike>
+<strong>9/1/2020</strong>: there are <strong>58</strong> active cases amongst students living in on-campus facilities. All off-campus students are expected to isolate off campus, so assuming all on-campus students are also isolating on-campus there are 58 isolation beds currently being utilized. This means that SMU is roughly <strong>5</strong> on-campus cases away from hitting 63 beds occupied and possibly sending home students with homes within 120 miles of campus. Of course, this assumes that SMU is still planning to stick to the plan outlined in the most-current revision of the Fall 2020 Operations Plan document - but we will see. </strike>
 
 
 
