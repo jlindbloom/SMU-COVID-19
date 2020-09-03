@@ -1,6 +1,6 @@
-# Last Updated: 9/1/2020. Updated daily.
+# Last Updated: 9/3/2020. Updated daily.
 
-### Total Active Cases: 105
+### Total Active Cases: 119
 
 Here are some plots of [SMU's published COVID-19 case data](https://blog.smu.edu/coronavirus-covid-19/cases/). Solid black line indicates the first day of classes (August 24th), solid red line indicates the day these plots were last updated.
 
@@ -24,7 +24,9 @@ This document was last updated on 8/21/2020. Assuming these figures still remain
 <li> <strong>127</strong> beds occupied means in-person campus operations halted and remaining students asked to return home. </li>
 </ul>
 
-As of 9/1/2020, there are <strong>58</strong> active cases amongst students living in on-campus facilities. All off-campus students are expected to isolate off campus, so assuming all on-campus students are also isolating on-campus there are 58 isolation beds currently being utilized. This means that SMU is roughly <strong>5</strong> on-campus cases away from hitting 63 beds occupied and possibly sending home students with homes within 120 miles of campus. Of course, this assumes that SMU is still planning to stick to the plan outlined in the most-current revision of the Fall 2020 Operations Plan document - but we will see.
+<strike> <strong>9/1/2020</strong>: there are <strong>58</strong> active cases amongst students living in on-campus facilities. All off-campus students are expected to isolate off campus, so assuming all on-campus students are also isolating on-campus there are 58 isolation beds currently being utilized. This means that SMU is roughly <strong>5</strong> on-campus cases away from hitting 63 beds occupied and possibly sending home students with homes within 120 miles of campus. Of course, this assumes that SMU is still planning to stick to the plan outlined in the most-current revision of the Fall 2020 Operations Plan document - but we will see. </strike>
+
+
 
 Some other students are also tracking cases:
 <ul>
