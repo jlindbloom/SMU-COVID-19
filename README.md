@@ -27,7 +27,6 @@ Below is an excerpt from SMU's [Fall 2020 Operations Plan](https://smu.app.box.c
 <strong>9/1/2020</strong>: there are <strong>58</strong> active cases amongst students living in on-campus facilities. All off-campus students are expected to isolate off campus, so assuming all on-campus students are also isolating on-campus there are 58 isolation beds currently being utilized. This means that SMU is roughly <strong>5</strong> on-campus cases away from hitting 63 beds occupied and possibly sending home students with homes within 120 miles of campus. Of course, this assumes that SMU is still planning to stick to the plan outlined in the most-current revision of the Fall 2020 Operations Plan document - but we will see. </strike>
 
 
-
 Some other students are also tracking cases:
 <ul>
 <li> <a href="https://github.com/jared-burleson/SMU_COVID_Case_Tracker">SMU COVID-19 Case Tracker (jared-burleson)</a>
