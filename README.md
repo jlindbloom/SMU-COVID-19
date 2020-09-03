@@ -1,6 +1,6 @@
 # Last Updated: 9/3/2020. Updated daily.
 
-### Total Active Cases: 119
+### Total Active Cases: 156
 
 Here are some plots of [SMU's published COVID-19 case data](https://blog.smu.edu/coronavirus-covid-19/cases/). Solid black line indicates the first day of classes (August 24th), solid red line indicates the day these plots were last updated.
 
