@@ -1,6 +1,6 @@
 # Last Updated: 9/3/2020. Updated daily.
 
-### Total Active Cases: 119
+### Total Active Cases: 156
 
 Here are some plots of [SMU's published COVID-19 case data](https://blog.smu.edu/coronavirus-covid-19/cases/). Solid black line indicates the first day of classes (August 24th), solid red line indicates the day these plots were last updated.
 
@@ -16,6 +16,7 @@ Below is an excerpt from SMU's [Fall 2020 Operations Plan](https://smu.app.box.c
 
 ![](operations_plan_excerpt.png)
 
+<strong> This reasoning may no longer be valid, stay tuned. </strong>
 <strike> This document was last updated on 8/21/2020. Assuming these figures still remain accurate, there are a total of <strong>127</strong> isolation beds.
 <ul>
 <li> <strong>63</strong> beds occupied means students with permanent addresses within 120 miles of campus may be sent home. </li>
@@ -29,6 +30,8 @@ Below is an excerpt from SMU's [Fall 2020 Operations Plan](https://smu.app.box.c
 
 Some other students are also tracking cases:
 <ul>
-<li> <a href="https://github.com/jared-burleson/SMU_COVID_Case_Tracker">SMU COVID-19 Case Tracker (jared-burleson)</a>
-<li> <a href="https://github.com/NoahPearson/SMU_Covid-19_Tracking">SMU_Covid-19_Tracking (NoahPearson)</a>
+<li> <a href="https://github.com/jared-burleson/SMU_COVID_Case_Tracker">SMU COVID-19 Case Tracker (Jared Burleson)</a>
+<li> <a href="https://github.com/NoahPearson/SMU_Covid-19_Tracking">SMU_Covid-19_Tracking (Noah Pearson)</a>
+<li> <a href="http://covid.smuaiclub.com/">SMU COVID-19 Dashboard (Julian LaNeve and Josh Hascall)</a>
+  
 </ul>
